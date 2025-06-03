@@ -56,7 +56,7 @@ A: 請於 github 專案頁面開 issue 或 pull request。
 ## 目錄結構
 ```
 JobWebFilterTool/
-├── JobWebFilterTool.py      # 主程式
+├── JobWebFilterTool.py     # 主程式
 ├── README.md               # 專案說明
 ├── requirements.txt        # 依賴套件清單
 ├── chromedriver-win64/     # chromedriver 執行檔
