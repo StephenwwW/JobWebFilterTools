@@ -21,7 +21,7 @@
 - 支援重複詞自動標記，方便辨識常見用語
 
 ## 程式預覽圖
-![JobWebFilterTool預覽圖](account-password-generator/images/screenshot.png)  
+![JobWebFilterTool預覽圖](JobWebFilterTool/images/screenshot.png)  
 _▲ 程式主畫面：可控制求職網站篩選功能_
 
 ## 常見問題 (FAQ)
