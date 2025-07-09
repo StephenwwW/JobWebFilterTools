@@ -70,11 +70,14 @@ pip install --upgrade selenium psutil markupsafe jieba keyboard
    請依照你本機的 Google Chrome 版本，下載對應版本的 ChromeDriver：
 
 ChromeDriver 官方下載頁
+ ```bash
 [https://googlechromelabs.github.io/chrome-for-testing/](https://googlechromelabs.github.io/chrome-for-testing/)
+```
 
 範例下載方式 假設你目前的 Chrome 版本為 138.0.7204.101，系統為 Windows x64，請前往：
+```bash
 [https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.101/win64/chromedriver-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.101/win64/chromedriver-win64.zip)
-
+```
 下載後解壓縮至本工具的 chromedriver-win64/ 子資料夾中。
 
 4. 執行主程式：
