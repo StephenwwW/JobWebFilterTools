@@ -1,4 +1,5 @@
 selenium
 psutil
 markupsafe
-jieba 
+jieba
+keyboard
