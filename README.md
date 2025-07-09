@@ -99,9 +99,9 @@ JobWebFilterTool/
 ├── JobWebFilterTool.py        # 主程式（GUI）
 ├── README.md                  # 專案說明文件
 ├── mark.min.js                # 關鍵字標記函式庫（需手動放入）
-├── chromedriver-win64/       # ChromeDriver 執行檔資料夾
-├── taiwan_districts.json     # 台灣城市/行政區定義
-├── company_filters.json      # 排除公司儲存設定
+├── chromedriver-win64/        # ChromeDriver 執行檔資料夾
+├── taiwan_districts.json      # 台灣城市/行政區定義
+├── company_filters.json       # 排除公司儲存設定
 └── images/
     └── screenshot.png         # 程式預覽圖
 ```
