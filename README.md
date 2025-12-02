@@ -6,6 +6,9 @@
 >
 > 下一版本的更新將改以封裝包 (Packaged/Executable) 的形式發布。目前在整合相關套件依賴時仍面臨一些問題，正致力於解決中。**目標預計在 2025 年底 前釋出新版本。**
 
+新版預覽圖
+<img width="1078" height="516" alt="614" src="https://github.com/user-attachments/assets/fc5044e3-2d90-496c-912f-f62527922337" />
+
 
 ## 專案簡介
 
